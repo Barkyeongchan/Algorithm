@@ -8,6 +8,8 @@
 ## 1. 정렬(Sort)
 데이터를 일정한 기준에 따라 순서대로(오름차순 또는 내림차순) 나열하는 작업
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2a99c23a-d34f-4dd8-914d-8c90090b27a2" />
+
 ## 2. 슬라이딩 윈도우(Sliding Window)
 데이터의 특정 범위를 정해놓고 정해진 크기만큼 이동시켜 값을 구하는 알고리즘
 
