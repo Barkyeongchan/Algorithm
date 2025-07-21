@@ -19,3 +19,8 @@
 현재 상황에서 최적의 선택을 반복하여 최종 결과값을 구하는 알고리즘
 
 <img width="759" height="509" alt="image" src="https://github.com/user-attachments/assets/43592d5c-c025-48cf-9fba-c5c41fa8edad" />
+
+## 4. Python3 Turtle 로봇 알고리즘
+python3의 turtle을 활용하여 로봇 제어 알고리즘을 익힌다.
+
+<img width="428" height="372" alt="image" src="https://github.com/user-attachments/assets/58513359-4048-4622-b02c-9015ad6e9b0c" />
